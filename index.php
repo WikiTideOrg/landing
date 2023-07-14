@@ -7,6 +7,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="keywords" content="wiki, wikis, WikiTide, wiki hosting, MediaWiki" />
     <meta name="description" content="Seamlessly create and manage a wiki for free, no ads, no strings attached. See why dozens trust our expert hosting. Join WikiTide today!" />
+    <meta name="google-site-verification" content="9BKrnuH_ZCD7XGAk50SjbeUEZKjfJOQ02Dmo5pMZut0" />
     <meta name="twitter:description" content="Seamlessly create and manage a wiki for free, no ads, no strings attached. See why dozens trust our expert hosting. Join WikiTide today!" />
     <meta property="og:description" content="Seamlessly create and manage a wiki for free, no ads, no strings attached. See why dozens trust our expert hosting. Join WikiTide today!" />
     <meta property="og:type" content="website" />
@@ -202,6 +203,39 @@
         </div>
         <!-- Facts End -->      
 
+        <!-- Feature Start -->
+        <div class="container-xxl py-5">
+            <div class="container py-5 px-lg-5">
+                <div class="row g-4">
+                    <p class="section-title text-secondary justify-content-center"><span></span>WIKITIDE USAGE<span></span></p>
+                    <h1 class="text-center">Consider some potential uses</h1>
+                    <p class="text-center">WikiTide offers wiki hosting service to all, to further our mission of breaking down barriers to information dissemination. Consider some potential use cases for it.</p>
+                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="feature-item bg-light rounded text-center p-4">
+                            <i class="fa fa-3x fa-laptop-code text-primary mb-4"></i>
+                            <h5 class="mb-3">FOSS</h5>
+                            <p class="m-0">Free and open source software projects are the cornerstone of the internet, we ourselves are entirely powered by it. WikiTide warmly embraces and welcomes FOSS projects on our service.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="feature-item bg-light rounded text-center p-4">
+                            <i class="fa fa-3x fa-school text-primary mb-4"></i>
+                            <h5 class="mb-3">Higher education</h5>
+                            <p class="m-0">Compiling a curriculm or research can be a daunting chanllenge. WikiTide offers great wiki hosting which can help to build a reliable database or organize information.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="feature-item bg-light rounded text-center p-4">
+                            <i class="fa fa-3x fa-hands-holding-child text-primary mb-4"></i>
+                            <h5 class="mb-3">Non-profits</h5>
+                            <p class="m-0">Non-profits all over the world are doing spectacular feats. We provide reliable hosting to document your progress or as your main site, powered by a non-profit.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Feature End -->
+
         <!-- Footer Start -->
         <div class="container-fluid bg-primary text-light footer wow fadeIn" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
@@ -268,5 +302,4 @@
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
 </body>
-
 </html>
