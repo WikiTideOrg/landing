@@ -61,13 +61,12 @@
         </div>
         <!-- Spinner End -->
 
-
         <!-- Navbar & Hero Start -->
         <div class="container-xxl position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 <a href="" class="navbar-brand p-0">
-                    <!-- <h1 class="m-0">DGital</h1> -->
-                    <img src="https://static.wikiforge.net/commonswikitide/2/2c/WikiTide_wordmark.png" width="135" style="filter: invert(100%);" alt="WikiTide">
+                    <h1 class="m-0">WikiTide</h1>
+                    <!-- <img src="https://static.wikiforge.net/commonswikitide/2/2c/WikiTide_wordmark.png" width="135" alt="WikiTide"> -->
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars"></span>
@@ -76,9 +75,11 @@
                     <div class="navbar-nav mx-auto py-0">
                         <a href="index.html" class="nav-item nav-link active">Home</a>
                         <a href="https://meta.wikitide.com/wiki/Special:MyLanguage/WikiTide:About" class="nav-item nav-link">About</a>
+                        <a href="https://meta.wikitide.com/wiki/Special:MyLanguage/Donate" class="nav-item nav-link">Donate</a>
                         <a href="https://meta.wikitide.com/wiki/Special:MyLanguage/FAQ" class="nav-item nav-link">FAQ</a>
                         <a href="https://meta.wikitide.com/wiki/Special:MyLanguage/Help_center" class="nav-item nav-link">Contact us</a>
                     </div>
+                    <a href="https://meta.wikitide.com/wiki/Special:UserLogin" class="btn rounded-pill py-2 px-4 ms-3 d-none d-lg-block">Sign in</a>
                     <a href="https://meta.wikitide.com/wiki/Special:RequestWiki" class="btn rounded-pill py-2 px-4 ms-3 d-none d-lg-block">Start a wiki</a>
                 </div>
             </nav>
@@ -87,10 +88,10 @@
                 <div class="container px-lg-5">
                     <div class="row g-5 align-items-end">
                         <div class="col-lg-6 text-center text-lg-start">
-                            <h1 class="text-white mb-4 animated slideInDown">100% free wiki hosting. No ads. No strings attached.</h1>
-                            <p class="text-white pb-3 animated slideInDown">Spend less time worrying about wiki maintenance and spend more time writing. Join WikiTide and make your wiki today.</p>
+                            <h1 class="text-white mb-4 animated slideInDown">100% free wiki hosting. No ads. Powered by a non-profit.</h1>
+                            <p class="text-white pb-3 animated slideInDown">Share your knowledge with the world! We take care of wiki maintenance so you can spend more educating others on what you're an expert on. Join WikiTide and make your wiki today, powered by a non-profit dedicated to breaking down information barriers.</p>
                             <a href="https://meta.wikitide.com/wiki/Special:RequestWiki" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Start a wiki</a>
-                            <a href="https://meta.wikitide.com/wiki/Special:MyLanguage/Help_center" class="btn btn-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Need help?</a>
+                            <a href="https://meta.wikitide.com/wiki/Special:MyLanguage/Donate" class="btn btn-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Donate to WikiTide</a>
                         </div>
                         <div class="col-lg-6 text-center text-lg-start">
                             <img class="img-fluid animated zoomIn" src="img/hero.png" alt="">
@@ -100,6 +101,59 @@
             </div>
         </div>
         <!-- Navbar & Hero End -->
+
+        <!-- Feature Start -->
+                <div class="container-xxl py-5" style="padding-top: 0rem !important;">
+            <div class="container py-5 px-lg-5">
+                <div class="row g-4">
+                    <h1 class="text-center">Wikis for a wide variety</h1>
+                    <p class="text-center">WikiTide offers wiki hosting service to all, to further our mission of breaking down barriers to information dissemination. Consider some potential use cases for it.</p>
+                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                        <div class="feature-item bg-light rounded text-center p-4">
+                            <i class="fa fa-3x fa-database text-primary mb-4"></i>
+                            <h5 class="mb-3">Database repository</h5>
+                            <p class="m-0">Reliably compile your research into an easy-to-navigate wiki-powered database. Harness the power of MediaWiki to organize and share your knowledge with the world.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                        <div class="feature-item bg-light rounded text-center p-4">
+                            <i class="fa fa-3x fa-laptop-code text-primary mb-4"></i>
+                            <h5 class="mb-3">FOSS</h5>
+                            <p class="m-0">Free and open source software projects are the cornerstone of technology. Create and share encyclopedias, guides, knowledgebases, on FOSS projects share your knowledge.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="feature-item bg-light rounded text-center p-4">
+                            <i class="fa fa-3x fa-school text-primary mb-4"></i>
+                            <h5 class="mb-3">Higher education</h5>
+                            <p class="m-0">Compiling a curriculm or research can be a daunting chanllenge. WikiTide offers great wiki hosting which can help to build a reliable database or organize information.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="feature-item bg-light rounded text-center p-4">
+                            <i class="fa fa-3x fa-hands-holding-child text-primary mb-4"></i>
+                            <h5 class="mb-3">Non-profits</h5>
+                            <p class="m-0">Non-profits all over the world are doing spectacular feats. We provide reliable hosting so you can share your knowledge with the entire world.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="feature-item bg-light rounded text-center p-4">
+                            <i class="fa fa-3x fa-book-atlas text-primary mb-4"></i>
+                            <h5 class="mb-3">Topic encyclopedias</h5>
+                            <p class="m-0">Are you an expert on a topic? Share your knowledge with the world and educate others on wide ranging matters you're familiar with like science and technology.</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
+                        <div class="feature-item bg-light rounded text-center p-4">
+                            <i class="fa fa-3x fa-bullhorn text-primary mb-4"></i>
+                            <h5 class="mb-3">Share your knowledge!</h5>
+                            <p class="m-0">The possibilities are endless. Experts and novices alike can come together to collaborate on wikis of various topics, from astronomy to physics, everything's possible!</p>
+                        </div>    
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Feature End -->
 
         <!-- Service Start -->
         <div class="container-xxl">
@@ -180,17 +234,17 @@
                 <div class="row g-4">
                     <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.1s">
                         <i class="fa fa-certificate fa-3x text-secondary mb-3"></i>
-                        <h1 class="text-white mb-2" data-toggle="counter-up">100</h1>
+                        <h1 class="text-white mb-2" data-toggle="counter-up">150</h1>
                         <p class="text-white mb-0">Wikis</p>
                     </div>
                     <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.3s">
                         <i class="fa fa-users-cog fa-3x text-secondary mb-3"></i>
-                        <h1 class="text-white mb-2" data-toggle="counter-up">200</h1>
+                        <h1 class="text-white mb-2" data-toggle="counter-up">300</h1>
                         <p class="text-white mb-0">Wiki requests</p>
                     </div>
                     <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
                         <i class="fa fa-users fa-3x text-secondary mb-3"></i>
-                        <h1 class="text-white mb-2" data-toggle="counter-up">1000</h1>
+                        <h1 class="text-white mb-2" data-toggle="counter-up">1450</h1>
                         <p class="text-white mb-0">Users</p>
                     </div>
                     <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
@@ -203,46 +257,13 @@
         </div>
         <!-- Facts End -->      
 
-        <!-- Feature Start -->
-        <div class="container-xxl py-5">
-            <div class="container py-5 px-lg-5">
-                <div class="row g-4">
-                    <p class="section-title text-secondary justify-content-center"><span></span>WIKITIDE USAGE<span></span></p>
-                    <h1 class="text-center">Consider some potential uses</h1>
-                    <p class="text-center">WikiTide offers wiki hosting service to all, to further our mission of breaking down barriers to information dissemination. Consider some potential use cases for it.</p>
-                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="feature-item bg-light rounded text-center p-4">
-                            <i class="fa fa-3x fa-laptop-code text-primary mb-4"></i>
-                            <h5 class="mb-3">FOSS</h5>
-                            <p class="m-0">Free and open source software projects are the cornerstone of the internet, we ourselves are entirely powered by it. WikiTide warmly embraces and welcomes FOSS projects on our service.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="feature-item bg-light rounded text-center p-4">
-                            <i class="fa fa-3x fa-school text-primary mb-4"></i>
-                            <h5 class="mb-3">Higher education</h5>
-                            <p class="m-0">Compiling a curriculm or research can be a daunting chanllenge. WikiTide offers great wiki hosting which can help to build a reliable database or organize information.</p>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="feature-item bg-light rounded text-center p-4">
-                            <i class="fa fa-3x fa-hands-holding-child text-primary mb-4"></i>
-                            <h5 class="mb-3">Non-profits</h5>
-                            <p class="m-0">Non-profits all over the world are doing spectacular feats. We provide reliable hosting to document your progress or as your main site, powered by a non-profit.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Feature End -->
-
         <!-- Footer Start -->
         <div class="container-fluid bg-primary text-light footer wow fadeIn" data-wow-delay="0.1s">
             <div class="container py-5 px-lg-5">
                 <div class="row g-5">
                     <div class="col-md-6 col-lg-3">
                         <p class="section-title text-white h5 mb-4">Contact us<span></span></p>
-                        <p><i class="fa fa-envelope me-3"></i>info [at] wikiforge.net</p>
+                        <p><i class="fa fa-envelope me-3"></i>info [at] wikitide.com</p>
                         <p><i class="fa fa-globe me-3"></i><a href="https://meta.wikitide.com/wiki/Special:MyLanguage/Help_center" style="color: white;">On-wiki</p>
                        <p><i class="fa fa-flag-checkered me-3"></i><a href="https://support.wikiforge.net" style="color: white;">Phorge</p>
 
@@ -267,7 +288,7 @@
                 <div class="copyright">
                     <div class="row">
                         <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                            &copy; <a class="border-bottom" href="#">WikiTide Incorporated</a> - All Right Reserved. 
+                            &copy; <span class="border-bottom">WikiTide</span> - a non-profit organization. 
 	                     </div>
                         <div class="col-md-6 text-center text-md-end">
                             <div class="footer-menu">
