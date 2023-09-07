@@ -258,15 +258,15 @@
                 <div class="row g-5">
                     <div class="col-md-6 col-lg-3">
                         <p class="section-title text-white h5 mb-4">Contact us<span></span></p>
-                        <p><i class="fa fa-envelope me-3"></i>info [at] wikitide.org</p>
+                        <p><i class="fa fa-envelope me-3"></i>support [at] wikitide.org</p>
                         <p><i class="fa fa-globe me-3"></i><a href="https://meta.wikitide.org/wiki/Special:MyLanguage/Help_center" style="color: white;">On-wiki</p>
-                       <p><i class="fa fa-flag-checkered me-3"></i><a href="https://support.wikiforge.net" style="color: white;">Phorge</p>
+                       <p><i class="fa fa-flag-checkered me-3"></i><a href="https://issue-tracker.wikitide.org" style="color: white;">Phorge</p>
 
                         <div class="d-flex pt-2">
                             <a rel="me" class="btn btn-outline-light btn-social" href="https://mastodon.social/@wikitide"><i class="fab fa-mastodon"></i></a>
                             <a class="btn btn-outline-light btn-social" href="https://facebook.com/WikiTide"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-outline-light btn-social" href="https://github.com/WikiForge"><i class="fab fa-github"></i></a>
-                            <a class="btn btn-outline-light btn-social" href="https://wikiforge.net/discord"><i class="fab fa-discord"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="https://github.com/WikiTideInc"><i class="fab fa-github"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="https://wikitide.org/discord"><i class="fab fa-discord"></i></a>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-3">
