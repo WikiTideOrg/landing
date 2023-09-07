@@ -1,1 +1,1 @@
-Sitemap: https://wikitide.com/sitemap.xml
+Sitemap: https://wikitide.org/sitemap.xml
