@@ -114,14 +114,14 @@
                         <div class="feature-item bg-light rounded text-center p-4">
                             <i class="fa fa-3x fa-laptop-code text-primary mb-4"></i>
                             <h5 class="mb-3">FOSS</h5>
-                            <p class="m-0">Free and open source software projects are the cornerstone of technology. Create and share encyclopedias, guides, knowledgebases, on FOSS projects share your knowledge.</p>
+                            <p class="m-0">Free and open-source software projects are the cornerstone of technology. Create and share encyclopedias, guides, knowledgebases, on FOSS projects share your knowledge.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="feature-item bg-light rounded text-center p-4">
                             <i class="fa fa-3x fa-school text-primary mb-4"></i>
                             <h5 class="mb-3">Higher education</h5>
-                            <p class="m-0">Compiling a curriculm or research can be a daunting chanllenge. WikiTide offers great wiki hosting which can help to build a reliable database or organize information.</p>
+                            <p class="m-0">Compiling a curriculum or documenting research can be a daunting challenge. WikiTide offers great wiki hosting which can help to build a reliable database or organize information.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
@@ -245,7 +245,7 @@
                     <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
                         <i class="fa fa-check fa-3x text-secondary mb-3"></i>
                         <h1 class="text-white mb-2" data-toggle="counter-up">100</h1>
-                        <p class="text-white mb-0">percent satsifaction</p>
+                        <p class="text-white mb-0">percent satisfaction</p>
                     </div>
                 </div>
             </div>
