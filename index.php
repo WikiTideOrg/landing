@@ -265,7 +265,7 @@
                         <div class="d-flex pt-2">
                             <a rel="me" class="btn btn-outline-light btn-social" href="https://mastodon.social/@wikitide"><i class="fab fa-mastodon"></i></a>
                             <a class="btn btn-outline-light btn-social" href="https://facebook.com/WikiTide"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-outline-light btn-social" href="https://github.com/WikiTideInc"><i class="fab fa-github"></i></a>
+                            <a class="btn btn-outline-light btn-social" href="https://github.com/WikiTideOrg"><i class="fab fa-github"></i></a>
                             <a class="btn btn-outline-light btn-social" href="https://wikitide.org/discord"><i class="fab fa-discord"></i></a>
                         </div>
                     </div>
