@@ -68,7 +68,7 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <div class="navbar-nav mx-auto py-0">
-                        <a href="index.html" class="nav-item nav-link active">Home</a>
+                        <a href="/" class="nav-item nav-link active">Home</a>
                         <a href="https://meta.wikitide.org/wiki/Special:MyLanguage/WikiTide:About" class="nav-item nav-link">About</a>
                         <a href="https://meta.wikitide.org/wiki/Special:MyLanguage/Donate" class="nav-item nav-link">Donate</a>
                         <a href="https://meta.wikitide.org/wiki/Special:MyLanguage/FAQ" class="nav-item nav-link">FAQ</a>
@@ -287,7 +287,7 @@
 	                     </div>
                         <div class="col-md-6 text-center text-md-end">
                             <div class="footer-menu">
-                                <a href="index.html">Home</a>
+                                <a href="/">Home</a>
                                 <a href="https://meta.wikitide.org/wiki/Special:MyLanguage/Privacy_Policy#Cookies">Cookies</a>
                                 <a href="https://meta.wikitide.org/wiki/Special:MyLanguage/Help_center">Help</a>
                                 <a href="https://meta.wikitide.org/wiki/Special:MyLanguage/FAQ">FAQ</a>
