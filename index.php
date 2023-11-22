@@ -23,7 +23,7 @@
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="application-name" content="WikiTide" />
-    <meta name="apple-mobile-web-app-title" content="WikiTide" />
+    <meta name="apple-mobile-web-app-header" content="WikiTide" />
     <link rel="canonical" href="https://wikitide.org" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
@@ -115,35 +115,35 @@
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="feature-item bg-light rounded text-center p-4">
                             <i class="fa fa-3x fa-laptop-code text-primary mb-4"></i>
-                            <h5 class="mb-3"><?php echo getTranslation( 'foss-title' ); ?></h5>
+                            <h5 class="mb-3"><?php echo getTranslation( 'foss-header' ); ?></h5>
                             <p class="m-0"><?php echo getTranslation( 'foss-text' ); ?></p>
                         </div>
                     </div>
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="feature-item bg-light rounded text-center p-4">
                             <i class="fa fa-3x fa-school text-primary mb-4"></i>
-                            <h5 class="mb-3"><?php echo getTranslation( 'highereducation-title' ); ?></h5>
+                            <h5 class="mb-3"><?php echo getTranslation( 'highereducation-header' ); ?></h5>
                             <p class="m-0"><?php echo getTranslation( 'highereducation-text' ); ?></p>
                         </div>
                     </div>
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="feature-item bg-light rounded text-center p-4">
                             <i class="fa fa-3x fa-hands-holding-child text-primary mb-4"></i>
-                            <h5 class="mb-3"><?php echo getTranslation( 'nonprofits-title' ); ?></h5>
+                            <h5 class="mb-3"><?php echo getTranslation( 'nonprofits-header' ); ?></h5>
                             <p class="m-0"><?php echo getTranslation( 'nonprofits-text' ); ?></p>
                         </div>
                     </div>
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="feature-item bg-light rounded text-center p-4">
                             <i class="fa fa-3x fa-book-atlas text-primary mb-4"></i>
-                            <h5 class="mb-3"><?php echo getTranslation( 'topic-title' ); ?></h5>
+                            <h5 class="mb-3"><?php echo getTranslation( 'topic-header' ); ?></h5>
                             <p class="m-0"><?php echo getTranslation( 'topic-text' ); ?></p>
                         </div>
                     </div>
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="feature-item bg-light rounded text-center p-4">
                             <i class="fa fa-3x fa-bullhorn text-primary mb-4"></i>
-                            <h5 class="mb-3"><?php echo getTranslation( 'explore-title' ); ?></h5>
+                            <h5 class="mb-3"><?php echo getTranslation( 'explore-header' ); ?></h5>
                             <p class="m-0"><?php echo getTranslation( 'explore-text' ); ?></p>
                         </div>    
                     </div>
@@ -156,8 +156,8 @@
         <div class="container-xxl">
             <div class="container py-5 px-lg-5">
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
-                    <p class="section-title text-secondary justify-content-center"><span></span><?php echo getTranslation( 'offerings-title' ); ?><span></span></p>
-                    <h1 class="text-center mb-5"><?php echo getTranslation( 'reasons-title' ); ?></h1>
+                    <p class="section-header text-secondary justify-content-center"><span></span><?php echo getTranslation( 'offerings-header' ); ?><span></span></p>
+                    <h1 class="text-center mb-5"><?php echo getTranslation( 'reasons-header' ); ?></h1>
                 </div>
                 <div class="row g-4">
                     <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -165,7 +165,7 @@
                             <div class="service-icon flex-shrink-0">
                                 <i class="fa fa-rectangle-ad fa-2x"></i>
                             </div>
-                            <h5 class="mb-3"><?php echo getTranslation( 'adfree-title' ); ?></h5>
+                            <h5 class="mb-3"><?php echo getTranslation( 'adfree-header' ); ?></h5>
                             <p class="m-0"><?php echo getTranslation( 'adfree-text' ); ?>.</p>
                             <a class="btn btn-square" href="https://meta.wikitide.org/wiki/Special:MyLanguage/Advertisements"><i class="fa fa-arrow-right"></i></a>
                         </div>
@@ -175,7 +175,7 @@
                             <div class="service-icon flex-shrink-0">
                                 <i class="fa fa-screwdriver-wrench fa-2x"></i>
                             </div>
-                            <h5 class="mb-3"><?php echo getTranslation( 'configuration-title' ); ?></h5>
+                            <h5 class="mb-3"><?php echo getTranslation( 'configuration-header' ); ?></h5>
                             <p class="m-0"><?php echo getTranslation( 'configuration-text' ); ?></p>
                             <a class="btn btn-square" href="https://meta.wikitide.org/wiki/Special:MyLanguage/ManageWiki"><i class="fa fa-arrow-right"></i></a>
                         </div>
@@ -185,7 +185,7 @@
                             <div class="service-icon flex-shrink-0">
                                 <i class="fa fa-swatchbook fa-2x"></i>
                             </div>
-                            <h5 class="mb-3"><?php echo getTranslation( 'customizability-title' ); ?></h5>
+                            <h5 class="mb-3"><?php echo getTranslation( 'customizability-header' ); ?></h5>
                             <p class="m-0"><?php echo getTranslation( 'customizability-text' ); ?></p>
                             <a class="btn btn-square" href="https://meta.wikitide.org/wiki/Special:MyLanguage/Extensions"><i class="fa fa-arrow-right"></i></a>
                         </div>
@@ -195,7 +195,7 @@
                             <div class="service-icon flex-shrink-0">
                                 <i class="fa fa-window-restore fa-2x"></i>
                             </div>
-                            <h5 class="mb-3"><?php echo getTranslation( 'customdomains-title' ); ?></h5>
+                            <h5 class="mb-3"><?php echo getTranslation( 'customdomains-header' ); ?></h5>
                             <p class="m-0"><?php echo getTranslation( 'customdomains-text' ); ?>.</p>
                             <a class="btn btn-square" href="https://meta.wikitide.org/wiki/Special:MyLanguage/Custom_domains"><i class="fa fa-arrow-right"></i></a>
                         </div>
@@ -205,7 +205,7 @@
                             <div class="service-icon flex-shrink-0">
                                 <i class="fa fa-headset fa-2x"></i>
                             </div>
-                            <h5 class="mb-3"><?php echo getTranslation( 'support-title' ); ?></h5>
+                            <h5 class="mb-3"><?php echo getTranslation( 'support-header' ); ?></h5>
                             <p class="m-0"><?php echo getTranslation( 'support-text' ); ?></p>
                             <a class="btn btn-square" href="https://meta.wikitide.org/wiki/Special:MyLanguage/Help_center"><i class="fa fa-arrow-right"></i></a>
                         </div>
@@ -215,7 +215,7 @@
                             <div class="service-icon flex-shrink-0">
                                 <i class="fa fa-pen-ruler fa-2x"></i>
                             </div>
-                            <h5 class="mb-3"><?php echo getTranslation( 'visualeditor-title' ); ?></h5>
+                            <h5 class="mb-3"><?php echo getTranslation( 'visualeditor-header' ); ?></h5>
                             <p class="m-0"><?php echo getTranslation( 'visualeditor-text' ); ?></p>
                             <a class="btn btn-square" href="https://meta.wikitide.org/wiki/Special:MyLanguage/VisualEditor"><i class="fa fa-arrow-right"></i></a>
                         </div>
@@ -259,7 +259,7 @@
             <div class="container py-5 px-lg-5">
                 <div class="row g-5">
                     <div class="col-md-6 col-lg-3">
-                        <p class="section-title text-white h5 mb-4"><?php echo getTranslation( 'contactus' ); ?><span></span></p>
+                        <p class="section-header text-white h5 mb-4"><?php echo getTranslation( 'contactus' ); ?><span></span></p>
                         <p><i class="fa fa-envelope me-3"></i>support [at] wikitide.org</p>
                         <p><i class="fa fa-globe me-3"></i><a href="https://meta.wikitide.org/wiki/Special:MyLanguage/Help_center" style="color: white;"><?php echo getTranslation( 'on-wiki' ); ?></p>
                        <p><i class="fa fa-flag-checkered me-3"></i><a href="https://issue-tracker.wikitide.org" style="color: white;"><?php echo getTranslation( 'phorge' ); ?></p>
@@ -272,7 +272,7 @@
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-3">
-                        <p class="section-title text-white h5 mb-4">Quick Links<span></span></p>
+                        <p class="section-header text-white h5 mb-4">Quick Links<span></span></p>
                         <a class="btn btn-link" href="https://meta.wikitide.org/wiki/WikiTide:About"><?php echo getTranslation( 'aboutus' ); ?></a>
                         <a class="btn btn-link" href="https://meta.wikitide.org/wiki/Special:MyLanguage/Help_center"><?php echo getTranslation( 'contactus' ); ?></a>
                         <a class="btn btn-link" href="https://meta.wikitide.org/wiki/Special:MyLanguage/Privacy_Policy"><?php echo getTranslation( 'privacypolicy' ); ?></a>
