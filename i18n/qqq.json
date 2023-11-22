@@ -1,0 +1,54 @@
+{
+	"@metadata": {
+		"authors": [
+			"Reception123"
+		]
+	},
+	"home": "Home",
+	"about": "About"
+	"faq": "FAQ"
+	"contactus": "Contacting WikiTide"
+	"wikitide-header": "WikiTide header message",
+	"description-text": "WikiTide description",
+	"requestwiki": "Requesting a wiki",
+	"donate": "Donating to WikiTide",
+	"variety-text": "Wiki variety text",
+	"mission-text": "Mission text",
+	"database": "Database repository",
+	"wiki-powered": "Wiki-powered text",
+	"foss-header": "FOSS header",
+	"foss-text": "Text about FOSS",
+	"highereducation-header": "Higher education header",
+	"highereducation-text":  "Text about Higher education",
+	"nonprofits-header": "Non-profits header",
+	"nonprofits-text": "Text about non-profits",
+	"topic-header": "Topic encyclopedias header",
+	"topic-text": "Text about topic encyclopedias.",
+	"explore-header": "Explore header",
+	"explore-text": "Text about exploration",
+	"offerings-header": "Offerings header",
+	"reasons-header": "Reasons header",
+	"adfree-header": "Ad-free header",
+	"adfree-text": "Text about being ad-free",
+	"configuration-header": "Configuration header",
+	"configuration-text": "Text about configuration",
+	"customizability-header": "Customizability header",
+	"customizability-text": "Text about customizability",
+	"customdomains-header": "Custom domains header",
+	"customdomains-text": "Text about custom domains",
+	"support-header": "Support header",
+	"support-text": "Text about support",
+	"visualeditor-header": "VisualEditor header",
+	"visualeditor-text": "Text about VisualEditor",
+	"wikis": "Wikis",
+	"wikirequests": "Wiki requests",
+	"users": "Users",
+	"experts": "powered by experts",
+	"on-wiki": "On-wiki",
+	"phorge": "Phorge",
+	"aboutus": "About us",
+	"privacypolicy": "Privacy Policy",
+	"termsofuse": "Terms of Use",
+	"contentpolicy": "Content Policy",
+	"wikitide-tagline": "WikiTide"
+}
