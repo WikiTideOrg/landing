@@ -61,7 +61,7 @@
             <nav class="navbar navbar-expand-lg navbar-light px-4 px-lg-5 py-3 py-lg-0">
                 <a href="" class="navbar-brand p-0">
                     <h1 class="m-0">WikiTide</h1>
-                    <!-- <img src="https://static.wikiforge.net/commonswikitide/2/2c/WikiTide_wordmark.png" width="135" alt="WikiTide"> -->
+                    <!-- <img src="https://static.wikitide.net/commonswikitide/2/2c/WikiTide_wordmark.png" width="135" alt="WikiTide"> -->
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                     <span class="fa fa-bars"></span>
