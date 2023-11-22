@@ -23,7 +23,7 @@
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="application-name" content="WikiTide" />
-    <meta name="apple-mobile-web-app-header" content="WikiTide" />
+    <meta name="apple-mobile-web-app-title" content="WikiTide" />
     <link rel="canonical" href="https://wikitide.org" />
     <link rel="icon" type="image/x-icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
