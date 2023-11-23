@@ -1,0 +1,54 @@
+{
+	"@metadata": {
+		"authors": [
+			"Reception123"
+		]
+	},
+	"home": "Home",
+	"about": "About"
+	"faq": "FAQ"
+	"contactus": "Contact us"
+	"wikitide-header": "100% free wiki hosting. No ads. Powered by a non-profit.",
+	"description-text": "Share your knowledge with the world! We take care of wiki maintenance so you can spend more educating others on what you're an expert on. Join WikiTide and make your wiki today, powered by a non-profit dedicated to breaking down information barriers.",
+	"requestwiki": "Start a wiki",
+	"donate": "Donate to WikiTide",
+	"variety-text": "Wikis for a wide variety",
+	"mission-text": "WikiTide offers wiki hosting service to all, to further our mission of breaking down barriers to information dissemination. Consider some potential use cases for it",
+	"database": "Database repository",
+	"wiki-powered": "Reliably compile your research into an easy-to-navigate wiki-powered database. Harness the power of MediaWiki to organize and share your knowledge with the world.",
+	"foss-header": "FOSS",
+	"foss-text": "Free and open-source software projects are the cornerstone of technology. Create and share encyclopedias, guides, knowledgebases, on FOSS projects share your knowledge.",
+	"highereducation-header": "Higher education",
+	"highereducation-text": "Compiling a curriculum or documenting research can be a daunting challenge. WikiTide offers great wiki hosting which can help to build a reliable database or organize information.",
+	"nonprofits-header": "Non-profits",
+	"nonprofits-text": "Non-profits all over the world are doing spectacular feats. We provide reliable hosting so you can share your knowledge with the entire world.",
+	"topic-header": "Topic encyclopedias",
+	"topic-text": "Are you an expert on a topic? Share your knowledge with the world and educate others on wide ranging matters you're familiar with like science and technology.",
+	"explore-header": "Share your knowledge!",
+	"explore-text": "The possibilities are endless. Experts and novices alike can come together to collaborate on wikis of various topics, from astronomy to physics, everything's possible!",
+	"offerings-header": "WHAT WE OFFER",
+	"reasons-header": "Why choose WikiTide?",
+	"adfree-header": "Ad-free",
+	"adfree-text": "Everybody hates ads, we do too. None of our wikis feature or will ever feature any ads, guaranteed.",
+	"configuration-header": "Configure it freely",
+	"configuration-text": "Our self-service interface allows administrators to easily configure almost every aspect of their wiki.",
+	"customizability-header": "Customizability",
+	"customizability-text": "Make it feel like home. Choose and configure over 300 extensions and skins to your hearts content.",
+	"customdomains-header": "Custom domains",
+	"customdomains-text": "Express yourself! All wikis can choose to use a custom domain of their own if they wish, for free.",
+	"support-header": "Friendly support",
+	"support-text": "Our team of friendly MediaWiki experts is here to help you at every step of the way. Just ask!",
+	"visualeditor-header": "VisualEditor support",
+	"visualeditor-text": "While others charge you for setting it up, we support VisualEditor out of the box, for free.",
+	"wikis": "Wikis",
+	"wikirequests": "Wiki requests",
+	"users": "Users",
+	"experts": "powered by experts",
+	"on-wiki": "On-wiki",
+	"phorge": "Phorge",
+	"aboutus": "About us",
+	"privacypolicy": "Privacy Policy",
+	"termsofuse": "Terms of Use",
+	"contentpolicy": "Content Policy",
+	"wikitide-tagline": "WikiTide"
+}
