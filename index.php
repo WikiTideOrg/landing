@@ -246,8 +246,8 @@
                     </div>
                     <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
                         <i class="fa fa-check fa-3x text-secondary mb-3"></i>
-                        <h1 class="text-white mb-2" data-toggle="counter-up">100%</h1>
-                        <p class="text-white mb-0">powered by experts</p>
+                        <h1 class="text-white mb-2" data-toggle="counter-up">100</h1>
+                        <p class="text-white mb-0">% powered by experts</p>
                     </div>
                 </div>
             </div>
