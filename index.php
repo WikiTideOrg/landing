@@ -3,19 +3,21 @@
 
 <head>
     <meta charset="utf-8">
-    <title>WikiTide - Free Wiki Hosting with No Ads</title>
+    <title>Free Wiki Hosting, No Ads - WikiTide</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta name="keywords" content="wiki, wikis, WikiTide, wiki hosting, MediaWiki" />
+    <meta name="keywords" content="wiki, wikis, free wiki hosting, WikiTide, wiki hosting, MediaWiki" />
     <meta name="description" content="Seamlessly create and manage a wiki for free, no ads, no strings attached. See why dozens trust our expert hosting. Join WikiTide today!" />
     <meta name="google-site-verification" content="9BKrnuH_ZCD7XGAk50SjbeUEZKjfJOQ02Dmo5pMZut0" />
     <meta name="twitter:description" content="Seamlessly create and manage a wiki for free, no ads, no strings attached. See why dozens trust our expert hosting. Join WikiTide today!" />
     <meta property="og:description" content="Seamlessly create and manage a wiki for free, no ads, no strings attached. See why dozens trust our expert hosting. Join WikiTide today!" />
+    <meta property="og:image" content="https://wikitide.org/embed.png">
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="WikiTide - Free Wiki Hosting with No Ads" />
+    <meta property="og:title" content="Free Wiki Hosting, No Ads - WikiTide" />
     <meta property="og:site_name" content="WikiTide" />
     <meta property="og:url" content="https://wikitide.org/" />
     <meta property="og:locale" content="en_US" />
     <meta name="twitter:card" content="summary" />
+    <meta name="twitter:image" content="https://wikitide.org/embed.png">
     <meta name="twitter:title" content="WikiTide - Free Wiki Hosting with No Ads" />
     <meta name="twitter:site" content="WikiTide" />
     <meta name="mobile-web-app-capable" content="yes" />
@@ -83,13 +85,13 @@
                 <div class="container px-lg-5">
                     <div class="row g-5 align-items-end">
                         <div class="col-lg-6 text-center text-lg-start">
-                            <h1 class="text-white mb-4 animated slideInDown">100% free wiki hosting. No ads. Powered by a non-profit.</h1>
-                            <p class="text-white pb-3 animated slideInDown">Share your knowledge with the world! We take care of wiki maintenance so you can spend more educating others on what you're an expert on. Join WikiTide and make your wiki today, powered by a non-profit dedicated to breaking down information barriers.</p>
+                            <h1 class="text-white mb-4 animated slideInDown">Ad-free wiki hosting, powered by expert MediaWiki volunteers</h1>
+                            <p class="text-white pb-3 animated slideInDown">Focus on what you love and let us take care of the technical details. Join WikiTide and make your wiki today, powered by a non-profit whose mission is to serve you!</p>
                             <a href="https://meta.wikitide.org/wiki/Special:RequestWiki" class="btn btn-secondary py-sm-3 px-sm-5 rounded-pill me-3 animated slideInLeft">Start a wiki</a>
                             <a href="https://meta.wikitide.org/wiki/Special:MyLanguage/Donate" class="btn btn-light py-sm-3 px-sm-5 rounded-pill animated slideInRight">Donate to WikiTide</a>
                         </div>
                         <div class="col-lg-6 text-center text-lg-start">
-                            <img class="img-fluid animated zoomIn" src="https://wikitide.org/img/hero.png" alt="">
+                            <img class="img-fluid animated zoomIn" src="https://wikitide.org/img/hero.png" alt="Join WikiTide!">
                         </div>
                     </div>
                 </div>
@@ -102,46 +104,46 @@
             <div class="container py-5 px-lg-5">
                 <div class="row g-4">
                     <h1 class="text-center">Wikis for a wide variety</h1>
-                    <p class="text-center">WikiTide offers wiki hosting service to all, to further our mission of breaking down barriers to information dissemination. Consider some potential use cases for it.</p>
+                    <p class="text-center">WikiTide offers wiki hosting service to a wide variety of wikis! Consider some potential use cases:</p>
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
                         <div class="feature-item bg-light rounded text-center p-4">
-                            <i class="fa fa-3x fa-database text-primary mb-4"></i>
-                            <h5 class="mb-3">Database repository</h5>
-                            <p class="m-0">Reliably compile your research into an easy-to-navigate wiki-powered database. Harness the power of MediaWiki to organize and share your knowledge with the world.</p>
+                            <i class="fa fa-3x fa-laptop-code text-primary mb-4"></i>
+                            <h5 class="mb-3">Technology</h5>
+                            <p class="m-0">Technology is everywhere, even in a toaster. Create and share encyclopedias, documentation, guides, knowledgebases, on a wide variety of tech topics, from FOSS to hardware to programming.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="feature-item bg-light rounded text-center p-4">
-                            <i class="fa fa-3x fa-laptop-code text-primary mb-4"></i>
-                            <h5 class="mb-3">FOSS</h5>
-                            <p class="m-0">Free and open-source software projects are the cornerstone of technology. Create and share encyclopedias, guides, knowledgebases, on FOSS projects share your knowledge.</p>
+                            <i class="fa fa-3x fa-gamepad text-primary mb-4"></i>
+                            <h5 class="mb-3">Games</h5>
+                            <p class="m-0">No one knows games like you do. Hidden features, powerful mods, scrapped lore, you know it all. Build an encyclopedia that captures all of that, powered by flexibility like none other.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="feature-item bg-light rounded text-center p-4">
-                            <i class="fa fa-3x fa-school text-primary mb-4"></i>
-                            <h5 class="mb-3">Higher education</h5>
-                            <p class="m-0">Compiling a curriculum or documenting research can be a daunting challenge. WikiTide offers great wiki hosting which can help to build a reliable database or organize information.</p>
+                            <i class="fa fa-3x fa-masks-theater text-primary mb-4"></i>
+                            <h5 class="mb-3">TV/Entertainment</h5>
+                            <p class="m-0">The suspense! The drama! The horror! Document and capture it all beautifully through a wiki. Share with the world your knowledge and document every nook and cranny freely.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="feature-item bg-light rounded text-center p-4">
-                            <i class="fa fa-3x fa-hands-holding-child text-primary mb-4"></i>
-                            <h5 class="mb-3">Non-profits</h5>
-                            <p class="m-0">Non-profits all over the world are doing spectacular feats. We provide reliable hosting so you can share your knowledge with the entire world.</p>
+                            <i class="fa fa-3x fa-flask-vial text-primary mb-4"></i>
+                            <h5 class="mb-3">Sciences</h5>
+                            <p class="m-0">Inquiring minds want to know. Build wikis on a wide variety of topics, from formal sciences to natural sciences, we provide the tools to build wonderful wikis.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="feature-item bg-light rounded text-center p-4">
-                            <i class="fa fa-3x fa-book-atlas text-primary mb-4"></i>
-                            <h5 class="mb-3">Topic encyclopedias</h5>
-                            <p class="m-0">Are you an expert on a topic? Share your knowledge with the world and educate others on wide ranging matters you're familiar with like science and technology.</p>
+                            <i class="fa fa-3x fa-graduation-cap text-primary mb-4"></i>
+                            <h5 class="mb-3">Education</h5>
+                            <p class="m-0">Build beautiful wikis for a variety of needs: from curriculum to presentations to dissertations and research, we welcome all academic and education users to use our platform.</p>
                         </div>
                     </div>
                     <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="feature-item bg-light rounded text-center p-4">
                             <i class="fa fa-3x fa-bullhorn text-primary mb-4"></i>
-                            <h5 class="mb-3">Share your knowledge!</h5>
+                            <h5 class="mb-3">...and so much more!</h5>
                             <p class="m-0">The possibilities are endless. Experts and novices alike can come together to collaborate on wikis of various topics, from astronomy to physics, everything's possible!</p>
                         </div>    
                     </div>
@@ -234,12 +236,12 @@
                     </div>
                     <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.3s">
                         <i class="fa fa-users-cog fa-3x text-secondary mb-3"></i>
-                        <h1 class="text-white mb-2" data-toggle="counter-up">500</h1>
+                        <h1 class="text-white mb-2" data-toggle="counter-up">700</h1>
                         <p class="text-white mb-0">Wiki requests</p>
                     </div>
                     <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.5s">
                         <i class="fa fa-users fa-3x text-secondary mb-3"></i>
-                        <h1 class="text-white mb-2" data-toggle="counter-up">3200</h1>
+                        <h1 class="text-white mb-2" data-toggle="counter-up">4300</h1>
                         <p class="text-white mb-0">Users</p>
                     </div>
                     <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
@@ -271,7 +273,7 @@
                     </div>
                     <div class="col-md-6 col-lg-3">
                         <p class="section-title text-white h5 mb-4">Quick Links<span></span></p>
-                        <a class="btn btn-link" href="https://meta.wikitide.org/wiki/WikiTide:About">About Us</a>
+                        <a class="btn btn-link" href="https://meta.wikitide.org/wiki/Special:MyLanguage/WikiTide:About_us">About Us</a>
                         <a class="btn btn-link" href="https://meta.wikitide.org/wiki/Special:MyLanguage/Help_center">Contact Us</a>
                         <a class="btn btn-link" href="https://meta.wikitide.org/wiki/Special:MyLanguage/Privacy_Policy">Privacy Policy</a>
                         <a class="btn btn-link" href="https://meta.wikitide.org/wiki/Special:MyLanguage/Terms_of_Use">Terms of Use</a>
@@ -283,7 +285,7 @@
                 <div class="copyright">
                     <div class="row">
                         <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                            &copy; <span class="border-bottom">WikiTide</span> - a non-profit organization. 
+                            &copy; <span class="border-bottom">WikiTide Foundation</span> - a 501(c)(3) non-profit organization. 
 	                     </div>
                         <div class="col-md-6 text-center text-md-end">
                             <div class="footer-menu">

@@ -1,2 +1,2 @@
-# wikitide-landing
-Landing page for wikitide.org
+# WikiTide Landing Page
+This is the landing page for wikitide.org
