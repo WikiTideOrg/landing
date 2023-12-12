@@ -247,7 +247,7 @@
                     <div class="col-md-6 col-lg-3 text-center wow fadeIn" data-wow-delay="0.7s">
                         <i class="fa fa-check fa-3x text-secondary mb-3"></i>
                         <h1 class="text-white mb-2"><span data-toggle="counter-up">100</span>%</h1>
-                        <p class="text-white mb-0">powered by experts</p>
+                        <p class="text-white mb-0">Powered by experts</p>
                     </div>
                 </div>
             </div>
@@ -285,7 +285,7 @@
                 <div class="copyright">
                     <div class="row">
                         <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                            &copy; <span class="border-bottom">WikiTide Foundation</span> - a 501(c)(3) non-profit organization. 
+                            &copy; <span class="border-bottom">WikiTide Foundation, Inc.</span> - a 501(c)(3) non-profit organization. 
 	                     </div>
                         <div class="col-md-6 text-center text-md-end">
                             <div class="footer-menu">
